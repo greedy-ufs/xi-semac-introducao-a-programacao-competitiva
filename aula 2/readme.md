@@ -240,10 +240,10 @@ Neste exemplo, `lower_bound()` retorna o índice 5 (posição do primeiro `4`) e
 
 ### Exercícios
 
+- [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C)
 - [Factory Machines - CSES](https://cses.fi/problemset/task/1620)
-- [Array division - CSES](https://cses.fi/problemset/task/1085)
 - [Aquário - Codeforces 1873E](https://codeforces.com/contest/1873/problem/E)
-- [Problemas selecionados da maratona UFMG](https://docs.google.com/spreadsheets/d/1QQ1QvYNDPKv9Aqh5c2VL_KCtpqASDWeRcLkyyXlPM0M/edit?gid=1907459156#gid=1907459156)
+- [+ Problemas selecionados da maratona UFMG](https://docs.google.com/spreadsheets/d/1QQ1QvYNDPKv9Aqh5c2VL_KCtpqASDWeRcLkyyXlPM0M/edit?gid=1907459156#gid=1907459156)
 
 # Referências
 
